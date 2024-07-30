@@ -1,4 +1,4 @@
-# Getting an auth code
+# Getting an auth code (TESTING)
 
 This golang code sample demonstrates how to programmatically fetch an auth code using the sandbox app credentials obtained from recipient hub. It uses the gin web framework and templates to render a rudimentary HTML page with a button to start the consent flow process.
 
